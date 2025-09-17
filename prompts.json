@@ -1,7 +1,18 @@
 [
   {
-    "title": "Test Prompt by Saqib Mughal",
+    "title": "Test Prompt1 by Saqib Mughal",
     "image": "https://raw.githubusercontent.com/ASMughal-644/ai-prompts-database/main/images/Image1.jpg",
-    "prompt": "A futuristic city skyline at sunset with flying cars."
+    "prompt": "A uturistic city skyline at sunset with flying cars."
   }
+  {
+    "title": "Test Prompt2 by Saqib Mughal",
+    "image": "https://raw.githubusercontent.com/ASMughal-644/ai-prompts-database/main/images/Image1.jpg",
+    "prompt": "A turistic city skyline at sunset with flying cars."
+  }
+  {
+    "title": "Test Prompt3 by Saqib Mughal",
+    "image": "https://raw.githubusercontent.com/ASMughal-644/ai-prompts-database/main/images/Image1.jpg",
+    "prompt": "A furtic city skyline at sunset with flying cars."
+  }
+  
 ]
